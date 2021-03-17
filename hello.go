@@ -3,7 +3,7 @@ package main
 import (
     "fmt"
 
-    "sesquipedalian-dev.github.io/go_vanity_2"
+    greetings "sesquipedalian-dev.github.io/go_vanity_1"
 )
 
 func main() {
